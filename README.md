@@ -76,6 +76,7 @@ numpy
 nltk
 textblob
 sqlalchemy     # if connecting to SQL from Python
+```
 
 ---
 
