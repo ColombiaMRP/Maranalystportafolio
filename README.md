@@ -3,7 +3,7 @@
 
 ---
 
-##  Report Cover (optional)
+##  Report Cover
 
 
 ![Report Cover](Front.png)
@@ -77,7 +77,11 @@ nltk
 textblob
 sqlalchemy     # if connecting to SQL from Python
 
-##  Installing Dependencies (requirements.txt)
+---
+
+
+## **Use**
+
 pip install -r requirements.txt
 
 
