@@ -23,6 +23,7 @@ This repository contains an **end-to-end data analytics project applied to marke
 
 ##  Repository Structure
 
+```
 ├── data/
 │ ├── raw/ # Raw data exported from the relational database
 │ └── processed/ # Processed/clean datasets ready for analysis and visualization
@@ -36,7 +37,7 @@ This repository contains an **end-to-end data analytics project applied to marke
 │ └── Front.png # Power BI report cover image
 ├── README.md
 └── requirements.txt # Python dependencies
-
+```
 
 ---
 
